@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Temu city/2. 콘텐츠/3. 대형 프로젝트.md",
+                "file": "Temu city/0. 기획 총괄/게임 개요 및 비전.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3. 대형 프로젝트"
+              "title": "게임 개요 및 비전"
             }
           }
         ]
@@ -182,8 +182,8 @@
   },
   "active": "c75190b8e1546ef6",
   "lastOpenFiles": [
-    "환영합니다.md",
     "Temu city/2. 콘텐츠/3. 대형 프로젝트.md",
+    "환영합니다.md",
     "Temu city/2. 콘텐츠/4. 재난.md",
     "Temu city/2. 콘텐츠/재난.md",
     "Temu city/2. 콘텐츠/2.도시 특성화/석유.md",
