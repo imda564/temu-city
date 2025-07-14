@@ -1,0 +1,213 @@
+{
+  "main": {
+    "id": "0970e933c6ff5da9",
+    "type": "split",
+    "children": [
+      {
+        "id": "ca9730757c4a9db4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c75190b8e1546ef6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "환영합니다.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "환영합니다"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c78351eece77aacb",
+    "type": "split",
+    "children": [
+      {
+        "id": "a627fbeaef0813a0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2ed468714f84a71f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "파일 탐색기"
+            }
+          },
+          {
+            "id": "fa0b95c44cbd9153",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "검색"
+            }
+          },
+          {
+            "id": "749eca652bc3cd1c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "북마크"
+            }
+          },
+          {
+            "id": "10d4af8cae6f3a8d",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {},
+              "icon": "layout-grid",
+              "title": "Navigator"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7b5007959b4e618f",
+    "type": "split",
+    "children": [
+      {
+        "id": "379048c725fb992c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a554107fa0b9c239",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "환영합니다.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "환영합니다 의 백링크"
+            }
+          },
+          {
+            "id": "c51817ca4ee59044",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "환영합니다.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "환영합니다 의 나가는 링크"
+            }
+          },
+          {
+            "id": "a62079383e6e7815",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "태그"
+            }
+          },
+          {
+            "id": "d065923704c5cddd",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "환영합니다.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "환영합니다 의 개요"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:빠른 전환기 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 일일 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false
+    }
+  },
+  "active": "c75190b8e1546ef6",
+  "lastOpenFiles": [
+    "Temu city/0. 기획 총괄/게임 개요 및 비전.md",
+    "환영합니다.md",
+    "Temu city/1. 핵심 시스템/경제 및 재정 시스템.md",
+    "Temu city/1. 핵심 시스템/동적 공급망 시스템.md",
+    "Temu city/1. 핵심 시스템/모듈형 대도시 시스템.md",
+    "Temu city/1. 핵심 시스템/시민 및 인구 시스템.md",
+    "Temu city/1. 핵심 시스템/연구 및 기술 발전 시스템.md",
+    "Temu city/1. 핵심 시스템/흐름 & 수용량 기반 교통 모델.md",
+    "Temu city/3. UI UX/UI UX.md",
+    "환영합니다!.md",
+    "Tags",
+    "Temu city/2. 콘텐츠/2.도시 특성화/석유.md",
+    "Temu city/2. 콘텐츠/2.도시 특성화/무역.md",
+    "Temu city/2. 콘텐츠/2.도시 특성화/도박.md",
+    "Temu city/2. 콘텐츠/2.도시 특성화/농업, 임업, 어업.md",
+    "Temu city/2. 콘텐츠/2.도시 특성화/광산.md",
+    "Temu city/2. 콘텐츠/2.도시 특성화/관광.md",
+    "Temu city/2. 콘텐츠/2.도시 특성화/2차 공장.md",
+    "Temu city/2. 콘텐츠/1. 일반/도로.md",
+    "Temu city/2. 콘텐츠/1. 일반/구역 설정.md",
+    "Temu city/2. 콘텐츠/1. 일반/공공 서비스.md",
+    "Temu city/2. 콘텐츠/2.도시 특성화",
+    "Temu city/2. 콘텐츠/1. 일반",
+    "Temu city/3. UI UX",
+    "Temu city/2. 콘텐츠",
+    "Temu city/1. 핵심 시스템",
+    "Temu city/0. 기획 총괄",
+    "Temu city"
+  ]
+}
