@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "환영합니다.md",
+                "file": "Temu city/0. 기획 총괄/게임 개요 및 비전.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "환영합니다"
+              "title": "게임 개요 및 비전"
             }
           }
         ]
@@ -176,18 +176,19 @@
       "canvas:새 캔버스 만들기": false,
       "daily-notes:오늘의 일일 노트 열기": false,
       "templates:템플릿 삽입": false,
-      "command-palette:명령어 팔레트 열기": false
+      "command-palette:명령어 팔레트 열기": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "c75190b8e1546ef6",
   "lastOpenFiles": [
+    "Temu city/1. 핵심 시스템/연구 및 기술 발전 시스템.md",
+    "Temu city/1. 핵심 시스템/시민 및 인구 시스템.md",
     "환영합니다.md",
     "Temu city/0. 기획 총괄/게임 개요 및 비전.md",
     "Temu city/1. 핵심 시스템/경제 및 재정 시스템.md",
     "Temu city/1. 핵심 시스템/동적 공급망 시스템.md",
     "Temu city/1. 핵심 시스템/모듈형 대도시 시스템.md",
-    "Temu city/1. 핵심 시스템/시민 및 인구 시스템.md",
-    "Temu city/1. 핵심 시스템/연구 및 기술 발전 시스템.md",
     "Temu city/1. 핵심 시스템/흐름 & 수용량 기반 교통 모델.md",
     "Temu city/3. UI UX/UI UX.md",
     "환영합니다!.md",
