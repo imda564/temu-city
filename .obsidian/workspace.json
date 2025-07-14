@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Temu city/2. 콘텐츠/4. 재난.md",
+                "file": "Temu city/2. 콘텐츠/재난.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4. 재난"
+              "title": "재난"
             }
           }
         ]
@@ -182,9 +182,10 @@
   },
   "active": "c75190b8e1546ef6",
   "lastOpenFiles": [
-    "Temu city/2. 콘텐츠/3. 대형 프로젝트.md",
     "Temu city/2. 콘텐츠/4. 재난.md",
     "Temu city/2. 콘텐츠/2.도시 특성화/석유.md",
+    "Temu city/2. 콘텐츠/재난.md",
+    "Temu city/2. 콘텐츠/3. 대형 프로젝트.md",
     "Temu city/2. 콘텐츠/2.도시 특성화/2차 공장.md",
     "Temu city/2. 콘텐츠/2.도시 특성화/농업, 임업, 어업.md",
     "Temu city/2. 콘텐츠/2.도시 특성화/광산.md",
@@ -209,7 +210,6 @@
     "Temu city/1. 핵심 시스템/모듈형 대도시 시스템.md",
     "Temu city/1. 핵심 시스템/흐름 & 수용량 기반 교통 모델.md",
     "Temu city/3. UI UX/UI UX.md",
-    "환영합니다!.md",
     "Tags",
     "Temu city/2. 콘텐츠/2.도시 특성화",
     "Temu city/2. 콘텐츠/1. 일반",
